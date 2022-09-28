@@ -1,5 +1,7 @@
 # Crypto_Clusters
 
+In this Jupyter notebook I utilize financial Python programming and unsupervised machine learning skills to cluster cryptocurrencies by their performance in different time periods, then plot the results to visually show performance.
+
 ## Skills utilized:
 
 -- Import the cryptocurrency dataset with periodic performance metrics.
@@ -14,14 +16,22 @@
 
 ## The steps for this Challenge are divided into the following sections:
 
--- Import the Data (provided in the starter code)
--- Prepare the Data (provided in the starter code)
+-- Import the Data 
+
+-- Prepare the Data 
+
 -- Find the Best Value for k Using the Original Data
+
 -- Cluster Cryptocurrencies with K-means Using the Original Data
+
 -- Optimize Clusters with Principal Component Analysis
+
 -- Find the Best Value for k Using the PCA Data
+
 -- Cluster the Cryptocurrencies with K-means Using the PCA Data
+
 -- Visualize and Compare the Results
+
 
 ## Required Installs
 
